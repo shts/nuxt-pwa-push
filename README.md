@@ -1,6 +1,6 @@
 # nuxt-pwa
 
-> My solid Nuxt.js project
+<img src="https://github.com/shts/nuxt-pwa-push/blob/master/static/record-1.gif?raw=true>
 
 ## Build Setup
 
