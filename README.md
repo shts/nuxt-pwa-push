@@ -1,22 +1,21 @@
 # nuxt-pwa
 
-<img src="https://github.com/shts/nuxt-pwa-push/blob/master/static/record-1.gif?raw=true">
+## ホームに追加
 
-## Build Setup
+<img src="https://github.com/shts/nuxt-pwa-push/blob/master/static/record-1.gif?raw=true" width=200>
 
-``` bash
-# install dependencies
-$ yarn install
+## ホームからアプリを起動
 
-# serve with hot reload at localhost:3000
-$ yarn dev
+<img src="https://github.com/shts/nuxt-pwa-push/blob/master/static/record-2.gif?raw=true" width=200>
 
-# build for production and launch server
-$ yarn build
-$ yarn start
+## プッシュ許諾
 
-# generate static project
-$ yarn generate
-```
+<img src="https://github.com/shts/nuxt-pwa-push/blob/master/static/record-3.gif?raw=true" width=200>
 
-For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
+## プッシュ通知
+
+<img src="https://github.com/shts/nuxt-pwa-push/blob/master/static/record-4.gif?raw=true" width=200>
+
+# ref
+
+https://pwa.nuxtjs.org/modules/onesignal.html#async-functions
